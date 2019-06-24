@@ -2,13 +2,15 @@
 
 - Open Command Prompt
 
-- Create a new folder with:
+- Go to the directory where you have your project i.e. C:\Projects
 
-`mkdir tdd-fizzbuzz`
-
-- Checkout project with Git with this command:
+- Checkout project with Git with this command which will also create a folder:
 
 `git clone ttps://github.com/michaeljwright/tdd-fizzbuzz`
+
+- Go to the directory that was created with below command:
+
+`cd tdd-fizzbuzz`
 
 - Run the below commands to install:
 
