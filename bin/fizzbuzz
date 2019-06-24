@@ -1,0 +1,6 @@
+#!/usr/bin/env node
+
+var fizzbuzz = require('../src/fizzbuzz');
+var formatter = require('../src/formatter/plaintext');
+
+console.log(formatter.format(fizzbuzz.run(1,100)));
