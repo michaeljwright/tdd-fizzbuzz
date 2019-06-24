@@ -25,3 +25,9 @@
 `npm start`
 
 [then click this to load in browser](http://127.0.0.1:3001)
+
+- Now open your IDE like Atom or PHPStorm and add the folder as a project
+
+- You can now review the tests in /test/fizzbuzz.spec.js
+
+- You can also review the fizzbuzz code in /src/fizzbuzz.js
