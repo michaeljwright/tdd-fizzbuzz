@@ -6,17 +6,15 @@
 
 - Checkout project with Git with this command which will also create a folder:
 
-`git clone ttps://github.com/michaeljwright/tdd-fizzbuzz`
+`git clone https://github.com/michaeljwright/tdd-fizzbuzz`
 
 - Go to the directory that was created with below command:
 
 `cd tdd-fizzbuzz`
 
-- Run the below commands to install:
+- Run the below commands to install dependencies:
 
-`npm i mocha
-npm i express
-npm i nodemon`
+`npm install`
 
 - Run one of the below commands:
 
